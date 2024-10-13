@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/plateforme-pharmaceutique-personnalisee/API---GateWay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plateforme-pharmaceutique-personnalisee/PPP---EurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plateforme-pharmaceutique-personnalisee/PPP---PharmacieMicroservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plateforme-pharmaceutique-personnalisee/PPP-MagasinMicroservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plateforme-pharmaceutique-personnalisee/PPP-Rapport/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plateforme-pharmaceutique-personnalisee/PPP-ReclamationMicroservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plateforme-pharmaceutique-personnalisee/PPP-RendezVous/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plateforme-pharmaceutique-personnalisee/authentification/src/main/java" charset="UTF-8" />
+  </component>
+</project>
